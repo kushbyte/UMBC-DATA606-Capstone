@@ -17,6 +17,23 @@ Developed projects including:
 Skilled in generating insights, building dashboards, and supporting **data-driven decision-making**. 
 ---
 
+---
+
+## 🎓 Education
+
+### **Master of Professional Studies in Data Science**  
+*University of Maryland, Baltimore County (UMBC)* – Baltimore, MD  
+📅 Jan 2024 – Dec 2025 | 🎓 GPA: **3.6/4.0**  
+Relevant Coursework: Machine Learning, Big Data Processing, Deep Learning, Data Management, Mathematics for Data Science, Data Structures & Algorithms, Leadership in Data Science  
+
+---
+
+### **Bachelor of Technology in Computer Science and Engineering**  
+*GITAM University* – Visakhapatnam, India  
+📅 Jun 2019 – May 2023 | 🎓 GPA: **3.7/4.0**  
+
+---
+
 ## 💼 Work Experience
 
 ### **Data Science Intern** – SmartKnower  
