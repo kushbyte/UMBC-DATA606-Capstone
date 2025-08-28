@@ -58,7 +58,7 @@ Skilled in generating insights, building dashboards, and supporting **data-drive
 ---
 
 ## 🎨 Interests
-- Community health analytics  
+- Machine Learning  
 - Open-source projects  
-- Hiking & soccer  
+- Cricket and Hiking
 
