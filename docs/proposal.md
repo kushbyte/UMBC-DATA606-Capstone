@@ -5,12 +5,7 @@
 Prepared for **UMBC Data Science Master’s Program – Capstone Project**  
 Instructor: **Dr. Chaojie (Jay) Wang**  
 
-**Author**: Kushal Senapati  
-
-- [GitHub Repository](https://github.com/yourusername/your-repo-name)  
-- [LinkedIn Profile](https://www.linkedin.com/in/your-link)  
-- [PowerPoint Presentation](https://link-to-your-ppt.com)  
-- [YouTube Video](https://link-to-your-video.com)  
+**Author**: Kushal Senapathi 
 
 ---
 
