@@ -89,9 +89,3 @@ This project focuses on predicting **NBA player points per game (PTS)** using ma
 - **Engineered features**: Rolling averages of points, assists, and rebounds from last 3–5 games.  
 
 ---
-
-✅ This version is polished, professional, and **proposal-ready**.  
-
----
-
-Do you want me to also draft the **first few cells of your Jupyter Notebook** (loading dataset + initial EDA) so you can place it in `/notebooks/exploration.ipynb`? That way you’ll already have a baseline to start with.
